@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\bin\Release\Backer.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\bin\Release\Backer.exe
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\bin\Release\Backer.pdb
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.About.resources
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.exe
+c:\users\user\documents\visual studio 2017\Projects\Backer\Backer\obj\Release\Backer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Backer\Backer\obj\Release\Backer.csprojResolveAssemblyReference.cache
